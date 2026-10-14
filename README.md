@@ -6,14 +6,21 @@ Wellness executive and hands-on builder. Through SoliVana Wellness and [SoliVana
 
 ## Products (live)
 
-| Instrument | What it measures | Where it runs |
-|---|---|---|
-| ZYTO Scan Dashboard | 222 bioenergetic biomarkers → organ/emotion dashboard + voice-stress DSP + LLM interpretation | zyto.solivana.ai |
-| Bioenergetics Scan Portal | Commercial voice-scan intake: Stripe-gated, streaming LLM interpretation reports, CRM sync | scan.solivana.ai |
-| SoliVana Sleep | CBT-I protocol digitization, binaural audio engine, evidence bibliography | sleep.solivana.io |
-| SoliVana Resonance | Frequency-wellness sound generator (binaural, Solfeggio, Schumann) as an installable PWA | resonance.solivana.io |
-| SoliVana Platform (code private) | The operating system for nervous-system recovery: wearable data pipelines, journey engine, marketplace + compliance lint gate | solivana.ai |
-| Peptides Protocol Matcher (code private) | Practitioner peptide/supplement protocol composer with clinical guardrails and Stripe subscriptions | peptides.solivana.ai |
+| Product | What it does | Live | Code |
+|---|---|---|---|
+| [Bioenergetics Voice Scan](https://scan.solivana.ai) | Ten-second voice sample → personalized wellness report: body systems, emotional landscape, infoceutical doses | scan.solivana.ai | [public](https://github.com/solivana7/bioenergetics-scan-portal) |
+| [ZYTO Scan Interpretation](https://zyto.solivana.ai) | Upload your ZYTO PDF → AI-interpreted report across biomarkers, organs, emotions + Fullscript ordering | zyto.solivana.ai | [public](https://github.com/solivana7/zyto-scan-dashboard) |
+| [InnerView](https://innerview.solivana.io) | Face/tongue photo analysis through Ayurveda + TCM, matched to SoliVana therapies | innerview.solivana.io | [public](https://github.com/solivana7/solivana-innerview) |
+| [PetView](https://petview.solivana.io) | AI photo screener for dogs and cats, built on veterinary visual-screening research | petview.solivana.io | [public](https://github.com/solivana7/solivana-petview) |
+| [MTHFR IQ](https://mthfriq.natashaberness.com) | Ten-question quiz + optional DNA upload → personalized methylation report | mthfriq.natashaberness.com | [public](https://github.com/solivana7/mthfr-iq-app) |
+| [SoliVana Astro](https://astro.solivana.io) | Vedic + Western natal chart → 8-chapter AI reading with downloadable report | astro.solivana.io | [public](https://github.com/solivana7/solivana-astro) |
+| [The Foundation](https://foundation.solivana.ai) | Six-week cleanse-prep program: member library, protocols, live cohort, AI companion | foundation.solivana.ai | [public](https://github.com/solivana7/solivana-foundation) |
+| [SoliVana Sleep](https://sleep.solivana.io) | Six weeks of CBT-I with a real-time binaural audio engine | sleep.solivana.io | [public](https://github.com/solivana7/solivana-sleep) |
+| [SoliVana Resonance](https://resonance.solivana.io) | Browser-generated frequency wellness: binaural, Solfeggio, Schumann, isochronic tones | resonance.solivana.io | [public](https://github.com/solivana7/solivana-resonance) |
+| [Vault Wealth IQ](https://vaultwealthiq.com) | Net worth, debt, property valuations + AI advisor in one private dashboard | vaultwealthiq.com | [public](https://github.com/solivana7/vault-wealth-iq) |
+| [Last Wish](https://www.lastwishvault.com) | Sealed letters and recorded wishes, delivered to the right people at the right time | lastwishvault.com | private |
+| [Peptides Protocol Matcher](https://peptides.solivana.ai) | Practitioner peptide/supplement protocol composer with clinical guardrails and Stripe subscriptions | peptides.solivana.ai | private |
+| [SoliVana Platform](https://solivana.ai) | The operating system for wellness: scans, protocols, wearables ingest, memberships | solivana.ai | private |
 
 Full suite: [tools.solivana.io](https://tools.solivana.io)
 
