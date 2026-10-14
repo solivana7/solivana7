@@ -12,7 +12,7 @@ Wellness executive and hands-on builder. Through SoliVana Wellness and [SoliVana
 | Bioenergetics Scan Portal | Commercial voice-scan intake: Stripe-gated, streaming LLM interpretation reports, CRM sync | scan.solivana.ai |
 | SoliVana Sleep | CBT-I protocol digitization, binaural audio engine, evidence bibliography | sleep.solivana.io |
 | SoliVana Resonance | Frequency-wellness sound generator (binaural, Solfeggio, Schumann) as an installable PWA | resonance.solivana.io |
-| SoliVana Platform | The operating system for nervous-system recovery: wearable data pipelines, journey engine, marketplace + compliance lint gate | solivana.ai |
+| SoliVana Platform (code private) | The operating system for nervous-system recovery: wearable data pipelines, journey engine, marketplace + compliance lint gate | solivana.ai |
 | Peptides Protocol Matcher (code private) | Practitioner peptide/supplement protocol composer with clinical guardrails and Stripe subscriptions | peptides.solivana.ai |
 
 Full suite: [tools.solivana.io](https://tools.solivana.io)
@@ -24,7 +24,6 @@ Full suite: [tools.solivana.io](https://tools.solivana.io)
 - **bioenergetics-scan-portal** — payment-gated LLM commerce: Stripe webhooks, SSE streaming, idempotency, CCPA erasure. Next.js.
 - **solivana-sleep** — CBT-I web app with a Web Audio binaural engine. Next.js.
 - **solivana-resonance** — frequency-wellness sound engine PWA with session stats and lead capture. React + Express.
-- **solivana-platform** — data pipelines + compliance linting for wellness claims.
 - **halo** — multi-LLM AI visibility tracking.
 - **MailButler** — AI email command center.
 
