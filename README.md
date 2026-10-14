@@ -2,7 +2,7 @@
 
 **I build AI instruments that measure and demonstrate how wellness moves biomarkers — and the data platforms behind them.**
 
-Wellness executive and hands-on builder. Through [SoliVana Wellness](https://www.solivana.com) and SoliVana Institute, I design and ship AI systems that turn wellness signals — bioenergetic scans, voice stress, sleep behavior, genomics — into measurable, explainable outcomes for practitioners and clients.
+Wellness executive and hands-on builder. Through SoliVana Wellness and [SoliVana Institute](https://www.solivana.institute), I design and ship AI systems that turn wellness signals — bioenergetic scans, voice stress, sleep behavior, genomics — into measurable, explainable outcomes for practitioners and clients.
 
 ## Products (live)
 
@@ -12,7 +12,7 @@ Wellness executive and hands-on builder. Through [SoliVana Wellness](https://www
 | Bioenergetics Scan Portal | Commercial voice-scan intake: Stripe-gated, streaming LLM interpretation reports, CRM sync | scan.solivana.ai |
 | SoliVana Sleep | CBT-I protocol digitization, binaural audio engine, evidence bibliography | sleep.solivana.io |
 | SoliVana Resonance | Frequency-wellness sound generator (binaural, Solfeggio, Schumann) as an installable PWA | resonance.solivana.io |
-| SoliVana Platform | Wearable data pipelines + a compliance lint gate for regulated wellness claims | solivana.com |
+| SoliVana Platform | Wearable data pipelines + a compliance lint gate for regulated wellness claims | solivana.institute |
 | Peptides Protocol Matcher (code private) | Practitioner peptide/supplement protocol composer with clinical guardrails and Stripe subscriptions | peptides.solivana.ai |
 
 Full suite: [tools.solivana.io](https://tools.solivana.io)
