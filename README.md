@@ -8,9 +8,10 @@ Wellness executive and hands-on builder. Through [SoliVana Wellness](https://www
 
 | Instrument | What it measures | Where it runs |
 |---|---|---|
-| ZYTO Scan Dashboard | 222 bioenergetic biomarkers → organ/emotion dashboard + voice-stress DSP + LLM interpretation | scan.solivana.ai |
+| ZYTO Scan Dashboard | 222 bioenergetic biomarkers → organ/emotion dashboard + voice-stress DSP + LLM interpretation | zyto.solivana.ai |
 | Bioenergetics Scan Portal | Commercial voice-scan intake: Stripe-gated, streaming LLM interpretation reports, CRM sync | scan.solivana.ai |
 | SoliVana Sleep | CBT-I protocol digitization, binaural audio engine, evidence bibliography | sleep.solivana.io |
+| SoliVana Resonance | Frequency-wellness sound generator (binaural, Solfeggio, Schumann) as an installable PWA | resonance.solivana.io |
 | SoliVana Platform | Wearable data pipelines + a compliance lint gate for regulated wellness claims | solivana.com |
 | Peptides Protocol Matcher (code private) | Practitioner peptide/supplement protocol composer with clinical guardrails and Stripe subscriptions | peptides.solivana.ai |
 
@@ -22,6 +23,7 @@ Full suite: [tools.solivana.io](https://tools.solivana.io)
 - **zyto-scan-dashboard** — client-side PDF parsing, browser-native voice DSP, LLM interpretation. TypeScript.
 - **bioenergetics-scan-portal** — payment-gated LLM commerce: Stripe webhooks, SSE streaming, idempotency, CCPA erasure. Next.js.
 - **solivana-sleep** — CBT-I web app with a Web Audio binaural engine. Next.js.
+- **solivana-resonance** — frequency-wellness sound engine PWA with session stats and lead capture. React + Express.
 - **solivana-platform** — data pipelines + compliance linting for wellness claims.
 - **halo** — multi-LLM AI visibility tracking.
 - **MailButler** — AI email command center.
